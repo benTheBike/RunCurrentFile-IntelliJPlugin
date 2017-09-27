@@ -1,3 +1,3 @@
 # RunCurrentFile-IntelliJPlugin
 
-Install to ``` ./intellij/config/plugins
+Install to ```./intellij/config/plugins```
