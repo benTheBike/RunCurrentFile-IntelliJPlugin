@@ -1,0 +1,1 @@
+# RunCurrentFile-IntelliJPlugin
